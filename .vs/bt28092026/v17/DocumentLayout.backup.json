@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\api\\bt28092026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD37CE8D-8281-44A0-8890-37716CFC1826}|bt28092026.csproj|d:\\api\\bt28092026\\controllers\\checkdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD37CE8D-8281-44A0-8890-37716CFC1826}|bt28092026.csproj|solutionrelative:controllers\\checkdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD37CE8D-8281-44A0-8890-37716CFC1826}|bt28092026.csproj|d:\\api\\bt28092026\\views\\home\\danhsachsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD37CE8D-8281-44A0-8890-37716CFC1826}|bt28092026.csproj|solutionrelative:views\\home\\danhsachsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD37CE8D-8281-44A0-8890-37716CFC1826}|bt28092026.csproj|d:\\api\\bt28092026\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD37CE8D-8281-44A0-8890-37716CFC1826}|bt28092026.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD37CE8D-8281-44A0-8890-37716CFC1826}|bt28092026.csproj|d:\\api\\bt28092026\\views\\home\\kiemtracuoituan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD37CE8D-8281-44A0-8890-37716CFC1826}|bt28092026.csproj|solutionrelative:views\\home\\kiemtracuoituan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckDataController.cs",
+              "DocumentMoniker": "D:\\api\\bt28092026\\Controllers\\CheckDataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckDataController.cs",
+              "ToolTip": "D:\\api\\bt28092026\\Controllers\\CheckDataController.cs*",
+              "RelativeToolTip": "Controllers\\CheckDataController.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:24:02.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhSachSanPham.cshtml",
+              "DocumentMoniker": "D:\\api\\bt28092026\\Views\\Home\\DanhSachSanPham.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DanhSachSanPham.cshtml",
+              "ToolTip": "D:\\api\\bt28092026\\Views\\Home\\DanhSachSanPham.cshtml*",
+              "RelativeToolTip": "Views\\Home\\DanhSachSanPham.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T01:32:40.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\api\\bt28092026\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\api\\bt28092026\\Models\\Product.cs*",
+              "RelativeToolTip": "Models\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:31:41.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KiemTraCuoiTuan.cshtml",
+              "DocumentMoniker": "D:\\api\\bt28092026\\Views\\Home\\KiemTraCuoiTuan.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\KiemTraCuoiTuan.cshtml",
+              "ToolTip": "D:\\api\\bt28092026\\Views\\Home\\KiemTraCuoiTuan.cshtml",
+              "RelativeToolTip": "Views\\Home\\KiemTraCuoiTuan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T01:25:53.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

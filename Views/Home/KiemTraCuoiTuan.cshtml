@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Kiểm tra cuối tuần";
+    DateTime today = ViewBag.Today;
+    bool isWeekend = ViewBag.IsWeekend;
+}
+
+<div class="text-center mt-5">
+    <h2>Hôm nay là: <strong>@today.ToString("dd/MM/yyyy")</strong></h2>
+
+    @if (isWeekend)
+    {
+        <div class="alert alert-success mt-3" role="alert">
+            <h4 class="alert-heading">Hôm nay là cuối tuần! 🎉</h4>
+            <p>Chúc bạn có một kỳ nghỉ vui vẻ!</p>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning mt-3" role="alert">
+            <h4 class="alert-heading">Hôm nay không phải cuối tuần.</h4>
+            <p>Hãy tiếp tục cố gắng làm việc nhé!</p>
+        </div>
+    }
+</div>
